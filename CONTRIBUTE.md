@@ -22,6 +22,8 @@ You can add content such as:
   <li>Training requests.</li>
 </ul>
 
+The steps to contributing are down below.
+
 ## Questions and ideas
 If you have questions, ideas and suggestions kindly create an issue and we will reach out promptly.
 
