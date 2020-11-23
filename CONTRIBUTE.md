@@ -5,8 +5,8 @@ Thank you very much for considering to contribute to this project! In the intere
 We welcome any form of contribution:
 
 - [Reporting mistakes or errors and bugs](#reporting-mistakes-and-bugs)
-- [Contributing to the Hub-Portal](Contributing-to-the-Hub-Portal)
-- [Questions, ideas and feature requests](Questions-and-ideas)
+- [Contributing to the Hub-Portal](#contributing-to-the-Hub-Portal)
+- [Questions, ideas and feature requests](#questions-and-ideas)
 - [Documentation improvements and new features](#documentation-improvements-and-new-features)
 
 ## Reporting mistakes and bugs
