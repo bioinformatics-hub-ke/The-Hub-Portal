@@ -41,7 +41,7 @@
 
 <a href="https://www.youtube.com/playlist?list=PLzfP3sCXUnxEu5S9oXni1zmc1sjYmT1L9">Simon Cockell's Bioinformatics-along playlist.</a>
 
-<a href="https://www.coursera.org/specializations/bioinformatics">Corsera Introduction to bioinformatics course</a>
+<a href="https://www.coursera.org/specializations/bioinformatics">Coursera Introduction to bioinformatics course</a>
 
 <a href="https://www.udemy.com/topic/bioinformatics/">Udemy bioinformatics courses</a>
 
