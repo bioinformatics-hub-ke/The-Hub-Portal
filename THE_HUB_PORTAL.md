@@ -1,7 +1,7 @@
-**The Hub Portal**
+<h1>The Hub Portal</h1>
 ![](https://github.com/bioinformatics-hub-ke/The-Hub-Portal/blob/main/Word%20Art.png/)
 
-**Kenyan Universities offering life sciences**
+<h1>Kenyan Universities offering life sciences.</h1>
 
 <table width=100%>
 <tr>
@@ -37,7 +37,7 @@
 </table>
 
 
-**Useful learning links**
+<h1>Useful learning links</h1>
 
 <a href="https://www.youtube.com/playlist?list=PLzfP3sCXUnxEu5S9oXni1zmc1sjYmT1L9">Simon Cockell's Bioinformatics-along playlist.</a>
 
@@ -45,30 +45,30 @@
 
 <a href="https://www.udemy.com/topic/bioinformatics/">Udemy bioinformatics courses</a>
 
-**Useful coding tutorials**
+<h1>Useful coding tutorials</h1>
 
 <a href="https://ourcodingclub.github.io/tutorials.html">Coding club</a> 
 
 
-**Practice your coding skills**
+<h1>Practice your coding skills</h1>
 
 <a href="http://rosalind.info/problems/locations/">Rosalind</a>
 
 <a href="https://www.kaggle.com/">Kaggle for learning and competitions.</a>
 
-<p> lookout for hackathons happening around the world here. </p>
+<p> Lookout for hackathons happening around the world here. </p>
 
-**Useful book download links**
+<h1>Useful book download links</h1>
 
 <a href="https://z-lib.org/">Z-lib.org</a>
 
 <a href="https://www.packtpub.com/">packtpub.com</a>
 
-**Research Institutions in Kenya**
+<h1>Research Institutions in Kenya</h1>
 
 Check for updates here. Also check their websites for opportunities and let us know if we miss anything. 
 
-<h3>Public Research Institutions</h3>
+<h1>Public Research Institutions</h1>
 
 <ul>
 <li>KEMRI-Wellcome Trust Research Programme</li>
@@ -84,7 +84,7 @@ Check for updates here. Also check their websites for opportunities and let us k
 <li>Tourism Research Institute</li>
 </ul>
 
-<h3>Private Research Institutions</h3>
+<h1>Private Research Institutions</h1>
 
 <ul>
 <li>Africa Institute for Capacity Development</li>
@@ -98,14 +98,14 @@ Check for updates here. Also check their websites for opportunities and let us k
 <li>The World Agroforestry Centre (ICRAF)</li>
 </ul>
 
-**Opportunities Alert**
+<h1>Opportunities Alert</h1>
 
 Look out for opportunities here.
 
-**Ask for Help here**
+<h1>Ask for Help here.</h1>
 
 Put up an issue or a pull request if you have a training request or need assistance with projects.
 
-**How you can contribute**
+<h1>How you can contribute</h1>
 
 Please read CONTRIBUTE.md.
