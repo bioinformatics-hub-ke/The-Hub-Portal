@@ -1,3 +1,6 @@
+**The Hub Portal**
+![](https://github.com/bioinformatics-hub-ke/The-Hub-Portal/blob/main/Word%20Art.png/)
+
 **Kenyan Universities offering life sciences**
 
 <table width=100%>
@@ -85,7 +88,7 @@ Check for updates here. Also check their websites for opportunities and let us k
 
 <ul>
 <li>Africa Institute for Capacity Development</li>
-</li>Academic Model Providing Access to Healthcare (AMPATH)</li>
+<li>Academic Model Providing Access to Healthcare (AMPATH)</li>
 <li>HJF Medical Research International Inc</li>
 <li>International Cancer Institute</li>
 <li>International Livestock Research Institution (ILRI)</li>
